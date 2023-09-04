@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitinmmmut&label=Profile%20views&color=0e75b6&style=flat" alt="nitinmmmut" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript.**
 
 - 💬 Ask me about **web developer,Frontend developer**
 
